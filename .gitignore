@@ -20,7 +20,8 @@
 
 # Altium extra project files
 *.prjpcbstructure
-_previews/*
+_Previews/*
+"Project Outputs for 5VPointofloadPSU"/_Previews/*
 History/*
 Pictures/
 "Project Logs for 5VPointofloadPSU"/*
@@ -35,3 +36,6 @@ Pictures/
 *.drd.*
 
 
+Project Outputs for 5VPointofloadPSU/Gerber/__Previews/
+Project Outputs for 5VPointofloadPSU/NC Drill/__Previews/
+Project Outputs for 5VPointofloadPSU/__Previews/

@@ -1,0 +1,7 @@
+##SBHXPOLPCN V2 Changes
+#Red LED to have >2k resistor
+#Flip power good and enable
+#More clearly label power in and out polarity
+#Add output/Input Lands for some sort of connector
+#Improve Thermal Performance to get to 6A continuous current draw
+#Include Diode rotation info in silk
