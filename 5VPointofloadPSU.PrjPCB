@@ -305,6 +305,9 @@ ConfigurationType=
 [Generic_EDE]
 OutputDir=
 
+[Generic_CoDesigner Mechatronic Panel]
+LastAcknowledgment=2021-04-13T02:50:41.0000000Z
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
